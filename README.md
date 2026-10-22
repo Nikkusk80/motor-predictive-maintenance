@@ -62,6 +62,12 @@ Z-score worked best on this simulated fault. Isolation Forest missed the subtle 
 
 ![Z-score of vibration](outputs/zscore.png)
 
+### Dashboard
+
+![Streamlit dashboard](outputs/dashboard.png)
+
+![Dashboard sensor plots](outputs/dashboard_sensors.png)
+
 ## Project Structure
 
 ```
